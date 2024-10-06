@@ -33,6 +33,9 @@ Proyek ini adalah aplikasi web sederhana yang memungkinkan pengguna untuk mengha
 └── app.py                 # File utama untuk menjalankan aplikasi Flask.
 ```
 
+## visualisasi 
+![visual](https://github.com/lahadiyani/Anone-AI/blob/main/assets/Screenshot%20(307).png)
+
 ## Dependensi
 Proyek ini membutuhkan beberapa dependensi. Pastikan untuk menginstalnya dengan menggunakan `pip`:
 
