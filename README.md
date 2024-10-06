@@ -3,6 +3,8 @@
 ## Deskripsi Proyek
 Proyek ini adalah aplikasi web sederhana yang memungkinkan pengguna untuk menghasilkan gambar berdasarkan prompt yang diberikan menggunakan API model machine learning. Pengguna dapat memasukkan prompt dan API key untuk mengakses model yang diinginkan.
 
+![icons](https://github.com/lahadiyani/Anone-AI/blob/main/static/image/icons.png)
+
 ## Fitur Utama
 - Menghasilkan gambar berdasarkan input prompt.
 - Menyimpan gambar yang dihasilkan ke dalam folder `static/output/`.
