@@ -61,7 +61,7 @@ apikey=custom
    python app.py
    ```
    
-4. **Akses Aplikasi**: Buka browser dan pergi ke `http://127.0.0.1:5000/` untuk mengakses aplikasi.
+4. **Akses Aplikasi**: Buka browser dan pergi ke `http://127.0.0.1:3000/` untuk mengakses aplikasi.
 
 ## Penggunaan
 - Masukkan prompt pada input yang disediakan.
