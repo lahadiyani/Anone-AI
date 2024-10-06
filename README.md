@@ -77,7 +77,6 @@ apikey=custom
 ## Catatan
 - Pastikan folder `static/output/` sudah ada dan dapat ditulisi oleh aplikasi untuk menyimpan gambar yang dihasilkan.
 - Jika model tertentu tidak aktif atau tidak cukup digunakan, mungkin ada waktu loading yang lebih lama. Pertimbangkan untuk menggunakan model lain jika masalah ini terus berlanjut.
-```
 
 ##cara mendapatkan API_URL dan API_KEY
 [huggingface apikey](https://huggingface.co/settings/tokens) dan contoh apiurl [huggingface api_url](https://huggingface.co/black-forest-labs/FLUX.1-dev) bisa diambil dari viewcode
