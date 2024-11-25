@@ -2,3 +2,4 @@ flask
 Pillow
 requests
 python-dotenv
+flask_cors
